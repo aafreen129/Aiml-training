@@ -1,4 +1,6 @@
 .venv/
+tf_env/
+srm/
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
