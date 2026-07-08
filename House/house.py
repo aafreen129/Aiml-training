@@ -1,5 +1,5 @@
 import streamlit as st
-st.title("house rent prediction")
+st.title("House Rent Prediction")
 import joblib
 import pandas as pd
 from pathlib import Path
